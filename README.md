@@ -9,17 +9,17 @@
   The dataset was converted in the below features
   1. Jaccard Distance
   2. Cosine Similarities
-    3. Page Rank
-    4. Shortest Path
-    5. Connected Components
-    6. Adar Index
-    7. Kartz Centrality
-    8. HITS Score
-    9. Preferential Attachment
-    10. Follow Back
-    11. SVD
-    12. SVD dot
-    13. Weight
+  3. Page Rank
+  4. Shortest Path
+  5. Connected Components
+  6. Adar Index
+  7. Kartz Centrality
+  8. HITS Score
+  9. Preferential Attachment
+  10. Follow Back
+  11. SVD
+  12. SVD dot
+  13. Weight
 
 # Conclusion
   1. The above analysis we have created around 56 features for analysis from only 2 columns.
