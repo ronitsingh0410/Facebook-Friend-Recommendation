@@ -7,8 +7,8 @@
   Based on the 2 columns we will featurize the dataset using networkx python library.
   To map to supervised learning we will asign all the row provided in dataset a value 1 and will randomly generate nodes and check if the pair of nodes is not present we will asign 0
   The dataset was converted in the below features
-    1. Jaccard Distance
-    2. Cosine Similarities
+  1. Jaccard Distance
+  2. Cosine Similarities
     3. Page Rank
     4. Shortest Path
     5. Connected Components
